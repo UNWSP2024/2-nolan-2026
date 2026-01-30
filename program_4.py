@@ -1,3 +1,7 @@
+    # By Nolan Nelsen
+    # Written on 1/30/2026
+    # Temperature Conversion
+
 # Look at line 17 first.
 # This program introduces a couple new concepts,
 # we'll be covering those in the weeks ahead
