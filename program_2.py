@@ -11,7 +11,7 @@ def average_age():
     age5 = 25
 
     # Sum ages
-    age_sum = Marco + James + Quinn + Sally + Jacob
+    age_sum = age1 + age2 + age3 + age4 + age5
     # Average the ages
     average = age_sum / 5
     # Print the results
