@@ -1,3 +1,7 @@
+# By Nolan Nelsen
+# Written on 1/30/2026
+# Personal Information
+
 def personal_information():
     name = "Tanka Jahari"
     address = "5029 Cherry Road, Springfield, MI, 59309"
@@ -8,5 +12,5 @@ def personal_information():
     print(phone_number)
     print(major)
 
-# Line which calls the above function.
+    # Line which calls the above function.
 personal_information()
