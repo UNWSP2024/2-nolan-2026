@@ -1,6 +1,13 @@
 def personal_information():
-	print('Tanka Jahari, 2509 Cherry Drive, Springfield, MI, 23095, 950-385-6579, Culinary Arts Major')
+name = "Tanka Jahari"
+address = "5029 Cherry Road, Springfield, MI, 59309"
+phone_number = "943-295-1958"
+major = "Culinary Arts"
+	print(name)
+	print(address)
+	print(phone_number)
+	print(major)
 
 
-	# Line which calls the above function.
+# Line which calls the above function.
 personal_information()
