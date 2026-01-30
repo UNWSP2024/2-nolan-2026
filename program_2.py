@@ -1,10 +1,10 @@
 def average_age():
     # Get User Input
-    Marco = 18
-    James = 20
-    Quinn = 21
-    Sally = 19
-    Jacob = 25
+    age1 = 18
+    age2 = 20
+    age3 = 21
+    age4 = 19
+    age5 = 25
 
     # Sum ages
     age_sum = Marco + James + Quinn + Sally + Jacob
